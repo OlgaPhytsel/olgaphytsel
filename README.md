@@ -1,7 +1,13 @@
 [![Header](https://github.com/OlgaPhytsel/olgaphytsel/blob/main/assets/header.png)](www.linkedin.com/in/ольга-пытель)
 
-## For a long time I have  looked for defects in the human body,during my work I have acquired skills that will help me to show myself in testing: sociability (daily communication with all sorts of people), attention to details,ability to solve difficult situations,curiosity and ability to learn quickly.
+## I am a beginner tester. I'm very curious and purposeful.
 
-Languages and Tools
+### Languages and Tools
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=DD5D0C)
+![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)
+![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=devtools&logoColor=2E24E1)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=411DEF)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=411DEF)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=C31AD8)
 
 Follow me
