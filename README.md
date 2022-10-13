@@ -1,4 +1,4 @@
-[![Header](https://github.com/OlgaPhytsel/olgaphytsel/blob/main/assets/header.png)](www.linkedin.com/in/ольга-пытель)
+[![Header](https://github.com/OlgaPhytsel/olgaphytsel/blob/main/assets/header1.png)](www.linkedin.com/in/ольга-пытель)
 
 ## I am a beginner tester. I'm very curious and purposeful.
 
