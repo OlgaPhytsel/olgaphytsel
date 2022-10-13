@@ -2,6 +2,9 @@
 
 ## I am a beginner tester. I'm very curious and purposeful.
 
+### My CV
+[![CV](https://img.shields.io/badge/-CV-000000?style=for-the-badge&logo=google&logoColor=ffffff)](https://drive.google.com/drive/folders/196qVsJwslLysKdXVMoMX5KmSdr3B-fAd?usp=sharing)
+
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=DD5D0C)
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=ffffff)
